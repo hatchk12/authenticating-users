@@ -181,6 +181,7 @@ This uses `axios` to access this new endpoint at `GET /api/users` to get the cur
 **If you refresh the page, you should see that you can stay logged in.**
 
 You can use the `Storage` tab on Firefox to see them:
+On Chrome use the "Application" tab under storage under cookies:
 
 ![cookies](/screenshots/cookies.png)
 
