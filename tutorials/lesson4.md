@@ -56,6 +56,7 @@ app.use(cookieSession({
     }
 }));
 ```
+Be sure this code comes before the user api paths "app.use("/api/users", users.routes);"
 
 ### Middleware to authenticate users
 
